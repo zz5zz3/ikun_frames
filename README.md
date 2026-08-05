@@ -3,7 +3,7 @@
 如果你能驱动一个 OLED 屏，那么你会得到：
 https://www.bilibili.com/video/BV17M411E7Mb/
 
-<a href="https://www.bilibili.com/video/BV17M411E7Mb/"><img src="assets/preview.gif" width="300" alt="点击观看演示视频"></a>
+<a href="https://www.bilibili.com/video/BV17M411E7Mb/"><img src="assets/preview.jpg" width="300" alt="点击观看演示视频"></a>
 
 ```c
 #include "ikun_frames.h"
